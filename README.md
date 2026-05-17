@@ -20,10 +20,10 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/MaFer26FS/Maffs
+git clone https://github.com/MaFer26FS/FerPass
 ```
 ```
-cd Fox-CC
+cd Maffs
 ```
 ```
 pip3 install -r requirements.txt
